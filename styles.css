@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+}
+
+nav {
+    text-align: right;
+    padding: 10px 30px 10px 10px;
+    float: right;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 30px;
+    color: white;
+}
+
+section {
+    overflow: auto;
+}
+
+section #waterfall {
+    width: 150px;
+    height: 150px;
+}
+
+section #waterfall-2 {
+    width: 550px;
+    height: 200px;
+}
+
+section .row {
+    display: flex;
+    background-color: rgb(234, 65, 65);
+    justify-content: space-between;
+}
+
+section .row-2 {
+    background-color: rgb(234, 65, 65);
+}
+
+.row-2 {
+    margin: auto;
+    display: flex;
+}
+
+.row-2 img {
+    margin: 0 120px;
+}
+
+#column {
+    margin: 0 120px;
+    color: white;
+}
+
+#column button {
+    background-color: rgb(85, 85, 255);
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    padding: 7px 15px;
+}
