@@ -83,13 +83,16 @@ h2#second {
 }
 
 section#third {
+    background-color: rgb(137, 128, 128);
+}
+
+#quoteHolder {
     margin: 100px;
 }
 
 #quote {
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
-    color: rgb(104, 94, 94);
     margin: auto auto;
 }
 
