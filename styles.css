@@ -99,3 +99,26 @@ section#third {
 #cit {
     text-align: right;
 }
+
+section#fourth {
+    display: flex;
+    align-items: center;
+    line-height: 3px;
+    margin: 100px;
+    justify-content: space-between;
+    background-color: rgb(85, 85, 255);
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#fourth button {
+    background-color: rgb(85, 85, 255);
+    color: white;
+    border: 2px solid white;
+    border-radius: 3px;
+    margin-right: 350px;
+    padding: 7px 15px;
+    width: 120px;
+    height: 30px;
+}
