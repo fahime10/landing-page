@@ -81,3 +81,18 @@ h2#second {
     border: 3px solid rgb(101, 101, 243);
     border-radius: 10px;
 }
+
+section#third {
+    margin: 100px;
+}
+
+#quote {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(104, 94, 94);
+    margin: auto auto;
+}
+
+#cit {
+    text-align: right;
+}
